@@ -1,0 +1,6 @@
+Model: ruin_house8
+License: GPLv3 or later
+         GPLv2
+         CC-BY
+Author: Farrer (http://dnt.dnteam.org)
+
